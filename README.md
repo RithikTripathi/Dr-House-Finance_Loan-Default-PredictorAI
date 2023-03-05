@@ -33,7 +33,9 @@ If you have any feedback, please reach out to me at rithik.tripathi7@gmail.com
 
 ## Quick Glimpse:
 
-### Homepage
+### Data Categories Validation : to verify Testing set does not have some categories on which model has been trained. If so, we need to handle that separately.
+<img width="192" alt="image" src="https://user-images.githubusercontent.com/63400981/222984114-b058e5bd-4590-4b08-917d-2be76848a413.png">
+
 
 
 
