@@ -7,6 +7,7 @@ Loan default prediction models can help banks to minimize financial risks and lo
 - EDA
 - Create Baseline Models
 - Feature Engineering, Transformations & Feature Selections
+- Column Transformer To Transform & Impute Multiple Feature at Once
 - Cross Validation of Models
 - Finalise Dataset
 - Model Selection via CV
@@ -34,10 +35,16 @@ If you have any feedback, please reach out to me at rithik.tripathi7@gmail.com
 ## Quick Glimpse:
 
 ### Data Categories Validation : to verify Testing set does not have some categories on which model has been trained. If so, we need to handle that separately.
-<img width="192" alt="image" src="https://user-images.githubusercontent.com/63400981/222984114-b058e5bd-4590-4b08-917d-2be76848a413.png">
+<img  alt="image" src="https://user-images.githubusercontent.com/63400981/222984114-b058e5bd-4590-4b08-917d-2be76848a413.png">
 
+### Outliers Detection (IQR, Standard Deviation, Z- Score) & Visual Representation
+<img alt="image" src="https://user-images.githubusercontent.com/63400981/222984241-af375b75-c844-42b8-974d-b7a6950af60a.png">
 
+### Detecting Multi- Collinearity
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/63400981/222984317-447c2a65-0e04-41a1-bb57-6f4475e8702d.png">
 
+### Training & Cross Validiating Multiple Classifiers
+<img  alt="image" src="https://user-images.githubusercontent.com/63400981/222984376-03b35488-b91b-421c-957c-8a717818c579.png">
 
 
 
